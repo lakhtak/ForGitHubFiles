@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace EnglishQuestionGui.Properties
+namespace WalrusEnglish.Properties
 {
 
 
